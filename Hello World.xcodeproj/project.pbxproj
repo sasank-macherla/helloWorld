@@ -12,6 +12,7 @@
 		57E78C791BE09DA900A9F633 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57E78C771BE09DA900A9F633 /* Main.storyboard */; };
 		57E78C7B1BE09DA900A9F633 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57E78C7A1BE09DA900A9F633 /* Assets.xcassets */; };
 		57E78C7E1BE09DA900A9F633 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57E78C7C1BE09DA900A9F633 /* LaunchScreen.storyboard */; };
+		57E78C881BE0C21500A9F633 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57E78C871BE0C21500A9F633 /* image1.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		57E78C7A1BE09DA900A9F633 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57E78C7D1BE09DA900A9F633 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57E78C7F1BE09DA900A9F633 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57E78C871BE0C21500A9F633 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				57E78C731BE09DA900A9F633 /* AppDelegate.swift */,
 				57E78C751BE09DA900A9F633 /* ViewController.swift */,
 				57E78C771BE09DA900A9F633 /* Main.storyboard */,
+				57E78C871BE0C21500A9F633 /* image1.jpg */,
 				57E78C7A1BE09DA900A9F633 /* Assets.xcassets */,
 				57E78C7C1BE09DA900A9F633 /* LaunchScreen.storyboard */,
 				57E78C7F1BE09DA900A9F633 /* Info.plist */,
@@ -122,6 +125,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57E78C7E1BE09DA900A9F633 /* LaunchScreen.storyboard in Resources */,
+				57E78C881BE0C21500A9F633 /* image1.jpg in Resources */,
 				57E78C7B1BE09DA900A9F633 /* Assets.xcassets in Resources */,
 				57E78C791BE09DA900A9F633 /* Main.storyboard in Resources */,
 			);
